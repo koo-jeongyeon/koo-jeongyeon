@@ -3,5 +3,4 @@
 
 **koo-jeongyeon/koo-jeongyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Backend Developer
-* java Backend Developer
+### java Backend Developer
