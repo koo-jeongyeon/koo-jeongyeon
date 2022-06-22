@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on rootenergy
-- 🌱 I’m currently learning TDD
 
 ### Backend Developer
 * java Backend Developer
