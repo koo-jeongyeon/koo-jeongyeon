@@ -1,6 +1,6 @@
-### Hello World 👋
+### I'm KooJeongYeon 👋
 
-[Engineering Wiki GitBook](https://koojeongyeons-engineering-wiki.gitbook.io/engineering-wiki/)
+[📕Engineering Wiki GitBook](https://koojeongyeons-engineering-wiki.gitbook.io/engineering-wiki/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-jeongyeon&show_icons=true)
 
