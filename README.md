@@ -1,7 +1,5 @@
 ### I'm KooJeongYeon 👋
 
-[🐜 Resume site](https://koo-jeongyeon.github.io/)
-
 [🐳 Engineering Wiki GitBook](https://koojeongyeons-engineering-wiki.gitbook.io/engineering-wiki/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-jeongyeon&show_icons=true)
